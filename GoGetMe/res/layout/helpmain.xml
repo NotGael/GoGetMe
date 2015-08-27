@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+	    android:id="@+id/txtHelpItem2Screen"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+    	android:gravity="center_horizontal"
+	    android:textSize="@dimen/large_text"
+	    android:padding="@dimen/btn_horiz_margin"
+	    android:drawablePadding="@dimen/btn_horiz_margin"
+	    android:text="Setup Help"
+	    />
+    
+    <Button 
+ 		android:id="@+id/btnBack"
+ 		android:layout_width="150dp"
+ 		android:layout_height="wrap_content"
+ 		android:layout_gravity="center"
+		 android:text = "Back" 
+ 	/>
+    
+    <ScrollView 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        
+	    <TextView
+	        android:id="@+id/txtvHelpItem2"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:autoLink="all"
+	        android:bufferType="spannable"
+	        android:drawablePadding="@dimen/help_text_drawable_padding"
+	        android:fadingEdge="vertical"
+	        android:fadingEdgeLength="@dimen/help_text_fading"
+	        android:linksClickable="true"
+	        android:padding="@dimen/help_text_padding"
+	        android:scrollbarStyle="outsideOverlay"
+	        android:scrollbars="vertical"
+	        android:textSize="@dimen/medium_text" />	    
+    
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+SELECT LOCATION
+
+Within this screen, you will be presented with a image switcher, of any new added locations, from
+
+the add location activity. Use next or prev to navigate back and fourth through location images.
+
+Select the location you wish to travel to, and then press go. This will bring up a mapview. The
+
+mapview will have your current location and destination, with a red polyline showing you the way.

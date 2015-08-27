@@ -1,0 +1,15 @@
+MAIN MENU
+
+Select Location Button ­ Select location screen.
+
+Add Location Button ­ Add a number of saved locations.
+
+Delete Location Button ­ Delete any saved locations.
+
+Register Button ­ Register user details.
+
+Help Menu Button ­ Navigatable menu screen, to access help.
+
+Carer Button - Carer menu screen
+
+Exit Button ­ Close applocation.

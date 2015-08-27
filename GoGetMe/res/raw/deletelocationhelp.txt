@@ -1,0 +1,5 @@
+DELETE LOCATION
+
+This is the screen with the switcher view, use next and prev to naviagate among locations that are
+
+saved on the phone. Select the location you wish to delete, and press delete.

@@ -1,0 +1,17 @@
+ADD LOCATION
+
+Within this screen, you will be presented with text fields, to add the details of the current location
+
+you wish to add to the phone. Enter all details, including a title for the location. Once all text fields
+
+are entered, press the take picture button. This will present you with two options. One take picture
+
+with the camera, to add a new image to the gallery. Second option is where you will pick the
+
+image to use. You can select any older images already saved in the gallery or the new one that
+
+you have just taken. Once you have selected your image from gallery, press load. One back on
+
+the text field screen, and are happy with details, press load. This will save the text and image to
+
+the select location screen.
